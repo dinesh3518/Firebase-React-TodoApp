@@ -1,0 +1,9 @@
+.dashcard{
+    min-width: 19rem;
+    height: 10rem;
+    
+}
+td {
+    vertical-align: center;
+    text-align:center;
+  }
